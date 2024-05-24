@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.btn{
+    background: #55229E;
+    color: #fff;
+    padding-block: 3px;
+    border-radius: 10px;
+    padding-inline: 14vw;
+    margin-block: 8%;
+}
+.inputs{
+    padding: 4px;
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 12px;
+    width: 10%;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+}
+.loginPage{
+    display: flex;
+}
+.bodyContainer{
+    display:flex;
+    justify-content:center;
+    padding-block:7%;
+    padding-left: 4%;
+}
+.wordsAndForm{
+    display: block;
+    margin-Inline:0;
+    margin-block:0;
+}
+.wordsContainer{
+    display:block;
+    text-align:center;
+}
+.wordsContainer>h2{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: Georgia;
+}
+.wordsContainer> p{
+    text-align: center;
+    font-weight: bold;
+    margin-block:15px;
+}
+.formInput{
+    padding: 4%;
+    font-weight:bolder;
+    font-size:large;
+    border-radius:12px;
+    width:80%;
+    margin-block:15px;
+
+}
+.inputsAnchor{
+    display: block;
+    text-align: center;
+}
+.subFormTag{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 4%;
+}
+.ptag{
+    font-size: medium;
+    font-weight: bolder;
+    color: #55229E;
+    font-family: Constantia;
+}
+.ptags{
+    font-size: medium;
+    font-weight: bolder;
+    font-family: Constantia;
+}
+.text{
+    display: flex;
+    text-align: justify;
+}
